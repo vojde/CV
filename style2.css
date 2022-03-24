@@ -1,0 +1,69 @@
+.container {
+	width: 100%;
+	max-width: 600px;
+	height: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	margin: auto;
+	background-color: #f0f6f6;
+}
+
+.personal-data-container {
+	background-color: #cacece;
+	justify-content: center;
+	display: flex;	
+	min-width: 220px;	
+}
+
+.appearance{
+	width: 150px;
+	max-width: 400px;
+	margin-left: 15px;
+	margin-top: 20px;
+}
+
+.name1 {
+	margin-bottom: 0px;
+}
+
+.name2 {
+	margin-top: 0px;
+}
+
+.photo {
+	width: 100%;
+}
+
+h4 {
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+a {
+	font-size:16px;
+	color:black; 
+}
+
+.end {
+	margin-bottom: 150px;
+}
+
+.professional-data-container {
+	width: 60%;	
+}
+
+.professional-data {
+	margin-left: 15px;
+	margin-top: 50px;
+	margin-right: 8px;
+}
+
+.line {
+	border-bottom: 1px solid; 
+}
+
+.text {
+	text-align: justify;
+	height: auto;
+	width: calc(100%);
+}
